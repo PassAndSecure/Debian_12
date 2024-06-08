@@ -3,6 +3,8 @@
 ## À propos
 Ce dépôt contient l'ISO pour Debian 12.5.0 AMD64 Netinst. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
+
 ## Téléchargement
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`debian-12.5.0-amd64-netinst.iso`](https://github.com/PassAndSecure/Debian_12/releases/download/debian-12.5.0-amd64-netinst/debian-12.5.0-amd64-netinst.iso) pour le télécharger.
 
